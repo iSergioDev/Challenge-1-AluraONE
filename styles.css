@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: aqua;
+}
+
+.container {
+    margin: auto;
+    width:1440px;
+    height: 1024px;
+    background-color: green;
+}
+
+.logo {
+    width: 40%;
+    float: left;
+    background: goldenrod;
+}
+
+.title {
+    width: 60%;
+    float: left;
+    text-align: left;
+    background: orangered;
+}
+
+.left {
+    float: left;
+    width: 65%;
+    height: auto;
+    border-radius: 24px;
+    background: slateblue;
+}
+
+.right {
+    float: right;
+    width: 35%;
+    height: auto;
+    border-radius: 24px;
+    background: salmon;
+}
+
+.left-button {
+    float: left;
+    width: 65%;
+    height: auto;
+    border-radius: 24px;
+    background: sienna;
+}
